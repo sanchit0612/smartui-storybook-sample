@@ -25,7 +25,9 @@ jobs:
     #     GITHUB_URL=$API_HOST/repos/$GITHUB_REPOSITORY/statuses/$COMMIT_ID
     #     echo "GITHUB_URL: $GITHUB_URL"
     #     echo "GITHUB_URL=$GITHUB_URL" >> $GITHUB_ENV
-   
+    - name: Check directory 
+      run: |
+        dir
     - name: Install Dependencies
       run: |
         npm install
