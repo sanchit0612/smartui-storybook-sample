@@ -17,7 +17,7 @@
     npm run storybook 
     ```
 
-## Running SmartUI storybook tests on a Docker container.
+## Running SmartUI storybook tests on a Docker container .
 
 1. Clone this repository
     ```
