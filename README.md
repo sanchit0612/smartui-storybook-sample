@@ -4,7 +4,7 @@
 
 1. Clone this repositor y 
     ```
-    git clone https://github.com/LambdaTest/smartui-storybook-sample
+    git clone https://github.com/LambdaTest/smartui-stor ybook-sample
     ```
 
 2. Change directory to the download ed git repo and install packages
