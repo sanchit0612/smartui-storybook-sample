@@ -26,8 +26,7 @@ jobs:
     #     echo "GITHUB_URL: $GITHUB_URL"
     #     echo "GITHUB_URL=$GITHUB_URL" >> $GITHUB_ENV
     - name: Check directory 
-      run: |
-        dir
+      run: cd smartui-storybook-sample
     - name: Install Dependencies
       run: |
         npm install
