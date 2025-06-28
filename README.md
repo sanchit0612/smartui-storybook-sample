@@ -7,7 +7,7 @@
     git clone https://github.com/LambdaTest/smartui-stor ybook-sample
     ```
 
-2. Change directory to the downloaded git repo and install packages
+2. Change directory to the download ed git repo and install packages
     ```
     npm install
     ```
@@ -17,7 +17,7 @@
     npm run storybook 
     ```
 
-## Running Smart UI storybook tests on a Docker container.
+
 
 1. Clone this repository
     ```
